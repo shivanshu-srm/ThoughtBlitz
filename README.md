@@ -12,6 +12,10 @@ In today's digital age, children are exposed to mobile phones and tablets at a v
 - Enhance memory mapping skills
 - Positively impact cognitive development
 
+**Demo Video**
+
+
+
 ## Technology Stack
 
 **Thought Blitz** is developed using the latest technologies to ensure it is engaging, visually appealing, and easy to use for children. The key technologies used are:

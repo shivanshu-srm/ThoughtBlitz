@@ -14,6 +14,7 @@ In today's digital age, children are exposed to mobile phones and tablets at a v
 
 **Demo Video**
 
+https://github.com/shivanshu-srm/ThoughtBlitz/assets/103733101/ae2465f1-c2e7-4cec-b93c-4db1b9640d85
 
 
 ## Technology Stack
